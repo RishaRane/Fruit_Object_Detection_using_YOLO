@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Fruit_Object_Detection/Dataset/train
+val: /content/drive/MyDrive/Fruit_Object_Detection/Dataset/test
+nc: 3
+names: ['apple', 'orange', 'banana']
